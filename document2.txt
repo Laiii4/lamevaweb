@@ -1,5 +1,0 @@
-"Canvis a document2.txt (eliminat el primer paràgraf)
-
-Un projecte és un procés únic que s’emprèn per aconseguir un objectiu.
-
-Un projecte és un procés únic, per la qual cosa les activitats (coordinades i controlades) que caldrà dur a terme per assolir el seu objectiu s’hauran de dissenyar de forma específica per a aquesta finalitat.
